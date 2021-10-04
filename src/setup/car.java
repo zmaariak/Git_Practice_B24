@@ -1,10 +1,11 @@
 package setup;
 
-public class car {
+public class Car {
 
-    // this is our car from james branch
+    // this is car class from master branch
 
-    // more text
+    // we will have a conflict
 
-    // more text
+    // because there is different text in different branches for car
+
 }
